@@ -1,3 +1,3 @@
 # Quera'sClassQsInfo
 
-### This script is used for gathering all students' submitted emails in a Quera class.
+### This script is used for gathering all Questions' information in a Quera class.
