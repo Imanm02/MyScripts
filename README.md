@@ -1,8 +1,7 @@
 # Scripts
 
-## Here I share scripts I use day-to-day; I hope it becomes helpful. </br>
-
-## Contact me if you have a new idea!
+Here I share scripts I use day-to-day; I hope it becomes helpful. </br>
+Contact me if you have a new idea!
 
 <a href="https://iman-mohammadi.com"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="darkwood"/></a>
 <a href="mailto:imanm1381@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="emai2l"/></a>
